@@ -1,6 +1,6 @@
 # HUN 🇭🇺
 # 🐉 Labyrinth
-> **Menekülés a sárkány elől 10 véletlenszerű labirintuson keresztül**
+> **Menekülés a sárkány elől 10 labirintuson keresztül**
 ---
 ## 📋 Áttekintés
 A **Labyrinth** egy Java alapú akció-túlélő játék, amelyben a játékosnak egy véletlenszerűen mozgó sárkány elől kell menekülnie a labirintusban. A cél az, hogy 10 különböző labirintuson keresztül eljusson a játékos a célmezőig anélkül, hogy a sárkány elkapná őt.
@@ -43,7 +43,7 @@ A **Labyrinth** egy Java alapú akció-túlélő játék, amelyben a játékosna
 
 # ENG 🇬🇧
 # 🐉 Labyrinth
-> **Escape from the dragon through 10 random labyrinths**
+> **Escape from the dragon through 10 labyrinths**
 ---
 ## 📋 Overview
 **Labyrinth** is a Java-based action-survival game where players must escape from a randomly moving dragon in a maze. The goal is to navigate through 10 different labyrinths to reach the target field without being caught by the dragon.
